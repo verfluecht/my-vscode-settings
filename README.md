@@ -1,2 +1,2 @@
 # my-vscode-settings
-wokr
+these are my vscode settings
